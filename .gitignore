@@ -1,0 +1,35 @@
+# osx noise
+.DS_Store
+profile
+
+# xcode noise
+build/*
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.pbxuser
+*.xcworkspace
+xcuserdata
+
+# svn & cvs
+.svn
+CVS
+cave_story.p8.png
+18973.p8.png
+demos/api.p8
+demos/butterfly.p8
+demos/cast.p8
+demos/collide.p8
+demos/drippy.p8
+demos/hello.p8
+demos/jelpi.p8
+demos/mandel.p8
+demos/stompy.p8
+demos/woo.p8
+demoscene1.p8.png
+demoscene2.png
+fanzine1.p8
+twoandahalfmen.p8
+twoandahalfmen.p8.png
